@@ -1,12 +1,8 @@
 package tt;
 
-import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileReader;
-import java.util.List;
-
-import ek.util.CounterMap;
 import ek.util.UnicodeUtils;
+
 
 public class Test1
 {
@@ -35,30 +31,17 @@ public class Test1
     {
         File file = new File("/ws4/Jap/Books/1Q84_BOOK01.txt");
         
-        BufferedReader rd = new BufferedReader(new FileReader(file));
+        KanjiCounter counter = new KanjiCounter();
+        counter.add(file);
         
-        FrequencyCounter fc = new FrequencyCounter();
-        
-        String line;
-        while((line = rd.readLine()) != null)
-        {
-            fc.add(line);
-        }
-        
-        rd.close();
-        
-        CounterMap cmap = fc.getCounters();
-        List<CounterMap.Item> list = cmap.getCounts();
-        int num = 0;
-        
-        System.out.println("Total: " + list.size());
+        System.out.println("Total: " + counter.size());
         System.out.println();
         
-        for(CounterMap.Item item: list)
+        int num = 0;
+        for(Character ch: counter.mostCommon(100))
         {
-            System.out.println(item.key + ", " + item.count);
             num++;
-            if(num >= 100) break;
+            System.out.format("%3d -> %s\n", num, ch);
         }
     }
     
