@@ -1,12 +1,9 @@
-package tt;
+package ek.util;
 
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.util.List;
-
-import ek.util.Counter;
-import ek.util.UnicodeUtils;
 
 
 public class KanjiCounter
@@ -49,7 +46,7 @@ public class KanjiCounter
     
     public List<Character> mostCommon(int n)
     {
-        return counter.mostCommon(n);
+        return counter.topKeys(n);
     }
     
     

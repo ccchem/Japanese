@@ -23,7 +23,7 @@ public class Counter<T>
     }
     
     
-    public List<T> mostCommon(int n) 
+    public List<T> topKeys(int n) 
     {
         return map.entrySet().stream()
             .sorted((e1, e2) -> Integer.compare(e2.getValue(), e1.getValue()))

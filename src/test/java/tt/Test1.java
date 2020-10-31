@@ -1,6 +1,8 @@
 package tt;
 
 import java.io.File;
+
+import ek.util.KanjiCounter;
 import ek.util.UnicodeUtils;
 
 
