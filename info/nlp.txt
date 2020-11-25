@@ -1,0 +1,3 @@
+https://github.com/atilika/kuromoji
+
+https://github.com/WorksApplications/Sudachi

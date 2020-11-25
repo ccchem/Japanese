@@ -22,7 +22,7 @@ public class KanjiCounter
         for(int i = 0; i < text.length(); i++)
         {
             char ch = text.charAt(i);
-            if(UnicodeUtils.isKanji(ch))
+            if(CharUtils.isKanji(ch))
             {
                 counter.add(ch);
             }
@@ -44,7 +44,7 @@ public class KanjiCounter
     }
     
     
-    public List<Character> mostCommon(int n)
+    public List<Character> topKeys(int n)
     {
         return counter.topKeys(n);
     }
