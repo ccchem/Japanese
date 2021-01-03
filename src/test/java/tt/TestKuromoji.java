@@ -10,7 +10,7 @@ public class TestKuromoji
 
     public static void main(String[] args)
     {
-        String text = "シロクマくん暇だから何か問題出してよ";
+        String text = "シロクマくん動物園へ";
         
         //testIpaDic(text);
         testJumanDic(text);
