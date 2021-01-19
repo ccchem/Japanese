@@ -67,6 +67,9 @@ public class OnomappuToWord
                 XWPFParagraph para = doc.createParagraph();
                 XWPFRun run = para.createRun();
                 run.setText(text);
+                run.setFontSize(18);
+                run.setColor("0072BC");
+                run.setFontFamily("Yu Gothic Medium");
             }
 
         }
