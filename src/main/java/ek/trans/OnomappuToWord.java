@@ -80,7 +80,7 @@ public class OnomappuToWord
             for(int i = 0; i < str.length(); i++)
             {
                 char ch = str.charAt(i);
-                if(ch < 255 && ch != ' ') return i;
+                if((ch >= 'A' && ch <= 'Z') || (ch >= 'a' && ch <= 'z')) return i;
             }
             
             return -1;

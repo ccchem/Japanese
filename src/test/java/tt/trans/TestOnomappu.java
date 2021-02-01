@@ -9,8 +9,8 @@ public class TestOnomappu
 
     public static void main(String[] args) throws Exception
     {
-        File trans = new File("/tmp/PronoMistakes.txt");
-        File word = new File("/tmp/PronoMistakes.docx");
+        File trans = new File("/tmp/Mistakes.txt");
+        File word = new File("/tmp/Mistakes.docx");
         
         OnomappuToWord ono = new OnomappuToWord();
         ono.process(trans, word);

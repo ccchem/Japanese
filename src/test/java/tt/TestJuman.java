@@ -10,7 +10,7 @@ public class TestJuman
 
     public static void main(String[] args)
     {
-        String text = "シロクマくん動物園へ";
+        String text = "第１問";
         testJumanDic(text);
     }
 
@@ -34,5 +34,6 @@ public class TestJuman
     // 名詞 [めいし] [meishi] - noun
     // 接尾辞 [せつびじ] - suffix
     // 助詞 [じょし] - particle
-    
+    // 動詞 [どうし] - verb
+    // 形容詞 [けいようし] - adjective
 }
