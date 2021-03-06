@@ -98,13 +98,13 @@ class ExtractText(HTMLParser):
 
 # ------------------------------------------------------------
 
-f = open("d:\\Jap\\j4y\\tmp.html", "r", encoding="utf-8")
+f = open("c:\\tmp\\jap.html", "r", encoding="utf-8")
 #f = open("d:\\Jap\\j4y\\t.txt", "r", encoding="utf-8")
 data = f.read()
 f.close()
 
-parser = DownloadSounds()
-#parser = ExtractText("t1.txt")
+#parser = DownloadSounds()
+parser = ExtractText("t1.txt")
 parser.feed(data)
 parser.close()
 
