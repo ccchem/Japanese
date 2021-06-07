@@ -16,12 +16,12 @@ def download(url):
 
 # -------------------------------------------------------------------
 def dd_img():
-  for i in range(100,200):
+  for i in range(120,200):
     num = "{:0>3d}".format(i)
-    url = "https://official-complete.granpulse.us/manga/Doraemons-Long-Tales/0005-" + num + ".png"
+    url = "https://official-complete-1.granpulse.us/manga/Doraemons-Long-Tales/0010-" + num + ".png"
     print(url)
     download(url)
-    time.sleep(3)
+    time.sleep(20)
 
 # -------------------------------------------------------------------
 

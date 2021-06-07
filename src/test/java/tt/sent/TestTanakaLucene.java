@@ -16,7 +16,7 @@ import org.apache.lucene.store.FSDirectory;
 import ek.sent.TanakaParser;
 
 
-public class TestTanaka
+public class TestTanakaLucene
 {
     private static class LuceneCB implements TanakaParser.Callback
     {
