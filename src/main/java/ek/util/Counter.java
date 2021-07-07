@@ -33,6 +33,12 @@ public class Counter<T>
     }
     
     
+    public Map<T, Integer> getMap()
+    {
+        return map;
+    }
+    
+    
     public int size()
     {
         return map.size();

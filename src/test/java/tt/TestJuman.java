@@ -10,7 +10,8 @@ public class TestJuman
 
     public static void main(String[] args)
     {
-        String text = "第１問";
+        //String text = "上のようにレバー式のものもある";
+        String text = "一門めのビ一ム砲出現！";
         testJumanDic(text);
     }
 
