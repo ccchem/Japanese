@@ -11,7 +11,7 @@ public class TestJuman
     public static void main(String[] args)
     {
         //String text = "上のようにレバー式のものもある";
-        String text = "一門めのビ一ム砲出現！";
+        String text = "笹を食べながらのんびりするのは最高だなぁ";
         testJumanDic(text);
     }
 

@@ -10,10 +10,10 @@ public class TestKuromoji
 
     public static void main(String[] args)
     {
-        String text = "シロクマくん動物園へ";
+        String text = "ちなみに  やる気はありますか";
         
-        //testIpaDic(text);
-        testJumanDic(text);
+        testIpaDic(text);
+        //testJumanDic(text);
         //testUniDic(text);
     }
 
@@ -26,7 +26,10 @@ public class TestKuromoji
         for(com.atilika.kuromoji.ipadic.Token token : tokens) 
         {
             String reading = CharUtils.katakanaToHiragana(token.getReading());
-            System.out.println(token.getBaseForm() + " -> " + reading + " -> " + token.getPartOfSpeechLevel1());
+            System.out.println(token.getSurface() + " : " 
+                    + token.getBaseForm() + " -> " 
+                    + reading + ", " + token.getPronunciation() + " -> " 
+                    + token.getPartOfSpeechLevel1());
         }
 
     }
