@@ -1,0 +1,4 @@
+https://github.com/obfusk/jiten-nonfree-data
+
+MP3 Tags:
+https://github.com/ericfarng/jid3lib

@@ -10,10 +10,10 @@ public class TestKuromoji
 
     public static void main(String[] args)
     {
-        String text = "ちなみに  やる気はありますか";
+        String text = "青豆は運転手の言ったことについて考えた。";
         
-        testIpaDic(text);
-        //testJumanDic(text);
+        //testIpaDic(text);
+        testJumanDic(text);
         //testUniDic(text);
     }
 
