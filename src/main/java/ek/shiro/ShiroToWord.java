@@ -22,8 +22,8 @@ public class ShiroToWord implements AssParser.Callback
     {
         if(text == null) return true;
         
-        if("日文".equals(style))
-        {
+        //if("日文".equals(style))
+        //{
             // Line 1: timestamp
             String time = start.substring(2, start.length()-3);
             
@@ -41,7 +41,7 @@ public class ShiroToWord implements AssParser.Callback
             //run.setColor("0072BC");
             run.setColor("000000");
             run.setFontFamily("Yu Gothic Medium");
-        }
+        //}
         
         return true;
     }
