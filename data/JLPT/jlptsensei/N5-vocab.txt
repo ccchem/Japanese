@@ -1,0 +1,201 @@
+1|浴びる|あびる|Verb, Ichidan verb, Transitive verb|to bathe, to shower
+2|危ない|あぶない|Adjective, い-adjective|dangerous
+3|あっち|あっち|Pronoun|over there
+4|あちら|あちら|Pronoun|there
+5|上げる|あげる|Verb, Ichidan verb, Transitive verb|to raise; to elevate
+6|赤|あか|Noun|red; crimson; scarlet​
+7|赤い|あかい|Adjective, い-adjective|red; crimson; scarlet​
+8|明るい|あかるい|Adjective, い-adjective|bright; light
+9|開ける|あける|Verb, Ichidan verb, Transitive verb|to open (a door, etc.); to unwrap (e.g. parcel, package); to unlock
+10|秋|あき|Noun|autumn; fall
+11|開く|あく|Verb, Godan verb, Intransitive verb|to open (e.g. doors, business, etc)
+12|甘い|あまい|Adjective, い-adjective|sweet; sweet-tasting; sugary; naive; indulgent
+13|飴|あめ|Noun|candy
+14|雨|あめ|Noun|rain
+15|あなた|あなた|Pronoun|you
+16|姉|あね|Noun|older sister; elder sister​
+17|兄|あに|Noun|elder brother; older brother​
+18|あの|あの|Pre-noun adjectival|that
+19|青|あお|Noun|blue; azure
+20|青い|あおい|Adjective, い-adjective|blue; azure
+21|アパート|アパート|Noun, Katakana|apartment
+22|洗う|あらう|Verb, Godan verb, Transitive verb|to wash
+23|あれ|あれ|Pronoun|that
+24|ある|ある|Verb, Godan verb, Intransitive verb|to be, to have
+25|歩く|あるく|Verb, Godan verb, Intransitive verb|to walk
+26|朝|あさ|Noun|morning
+27|朝ご飯|あさごはん|Noun|breakfast
+28|明後日|あさって|Noun|day after tomorrow
+29|足|あし|Noun|foot; leg; paw; arm
+30|明日|あした|Noun, Temporal noun|tomorrow
+31|遊ぶ|あそぶ|Verb, Godan verb, Intransitive verb|to play; to enjoy oneself
+32|あそこ|あそこ|Pronoun|over there
+33|頭|あたま|Noun|head
+34|新しい|あたらしい|	Adjective, い-adjective|new; novel; fresh; recent; latest
+35|暖かい|あたたかい|Adjective, い-adjective|warm
+36|後|あと|Noun|behind; after; remainder; left; also
+37|厚い|あつい|Adjective, い-adjective|thick
+38|暑い|あつい|Adjective, い-adjective|hot; sultry
+39|熱い|あつい|Adjective, い-adjective|hot
+40|会う|あう|Verb, Godan verb, Intransitive verb|to meet; to encounter; to see
+41|晩ご飯|ばんごはん|Noun|dinner; evening meal
+42|番号|ばんごう|Noun|number
+43|バス|バス|Noun, Katakana|bus
+44|バター|バター|Noun, Katakana|butter​
+45|ベッド|ベッド|Noun, Katakana|bed
+46|勉強|べんきょう|Noun, Suru verb|to study
+47|便利|べんり|な-adjective|convenient; handy; useful
+48|ボールペン|ボールペン|Noun, Katakana|ball-point pen
+49|ボタン|ボタン|Noun, Katakana|button
+50|帽子|ぼうし|Noun|hat; cap
+51|文章|ぶんしょう|Noun|sentence
+52|豚肉|ぶたにく|Noun|pork
+53|病院|びょういん|Noun|hospital
+54|病気|びょうき|Noun|illness; disease; sickness
+55|茶色|ちゃいろ|Noun|brown
+56|茶碗|ちゃわん|Noun|rice bowl; tea cup; teacup
+57|父|ちち|Noun|father
+58|違う|ちがう|Verb, Godan verb, Intransitive verb|to differ
+59|小さい|ちいさい|Adjective, い-adjective|small; little; tiny
+60|小さな|ちいさな|Pre-noun adjectival|small; little; tiny​
+61|近い|ちかい|い-adjective|near; close
+62|地下鉄|ちかてつ|Noun|subway; underground train
+63|地図|ちず|Noun|map
+64|ちょっと|ちょっと|Adverb|a little
+65|丁度|ちょうど|Adverb|exactly
+66|台所|だいどころ|Noun|kitchen
+67|大学|だいがく|Noun|university; college
+68|大丈夫|だいじょうぶ|Adjective, な-adjective, Adverb|OK; okay; alright; problem free
+69|大好き|だいすき|Adjective, な-adjective|love; like; like very much
+70|だんだん|だんだん|Adverb|gradually
+71|誰|だれ|Pronoun|who
+72|誰か|だれか|Pronoun|someone; somebody
+73|出す|だす|Verb, Godan verb, Transitive verb|to take out; to get out; to put out; to reveal
+74|出口|でぐち|Noun|exit; gateway; way out
+75|出かける|でかける|Verb, Ichidan verb, Intransitive verb|to go out; to leave; to depart
+76|電気|でんき|Noun|electricity
+77|電車|でんしゃ|Noun|train; electric train
+78|電話|でんわ|Noun, Verb, Suru verb|telephone (call / device)l; phone call
+79|デパート|デパート|Noun, Katakana|department store
+80|出る|でる|Verb, Ichidan verb, Intransitive verb|to leave; to exit; to appear; to go out
+81|ドア|ドア|Noun, Katakana|door
+82|どっち|どっち|Pronoun|which; which one
+83|どちら|どちら|Pronoun|which of two
+84|どこ|どこ|Pronoun|where; what place​
+85|どなた|どなた|Noun|who
+86|どの|どの|Pre-noun adjectival|which
+87|どれ|どれ|Pronoun|which (of three or more)​
+88|どう|どう|Adverb|how; in what way; how about​
+89|動物|どうぶつ|Noun|animal
+90|どうも|どうも|Adverb|thank you; thanks
+91|どうぞ|どうぞ|Adverb|please
+92|土曜日|どようび|Noun|Saturday
+93|絵|え|Noun|picture
+94|ええ|ええ|Noun|yes; that is correct; right
+95|映画|えいが|Noun|movie; film
+96|映画館|えいがかん|Noun|movie theater; cinema
+97|英語|えいご|Noun|English language
+98|駅|えき|Noun|station
+99|鉛筆|えんぴつ|Noun|pencil
+100|エレベーター|エレベーター|Noun, Katakana|elevator
+
+101|フィルム|フィルム|Noun, Katakana|film
+102|フォーク|フォーク|Noun, Katakana|fork
+103|吹く|ふく|Verb, Godan verb, Intransitive verb|to blow (of the wind)
+104|服|ふく|Noun|clothes
+105|降る|ふる|Verb, Godan verb, Intransitive verb|to fall
+106|古い|ふるい|い-adjective|old (not used for people)
+107|二人|ふたり|Noun|two people; pair; couple
+108|二つ|ふたつ|Noun, Numeric|two; 2
+109|太い|ふとい|Adjective, い-adjective|fat; thick
+110|二日|ふつか|Noun|the second day of the month / 2 days
+111|封筒|ふうとう|Noun|envelope
+112|冬|ふゆ|Noun|winter
+113|外国|がいこく|Noun|foreign country
+114|外国人|がいこくじん|Noun|foreigner; foreign citizen; foreign national; alien; non-Japanese
+115|学校|がっこう|Noun|school
+116|学生|がくせい|Noun|student
+117|玄関|げんかん|Noun|entrance
+118|元気|げんき|Noun, Adjective, な-adjective|lively; full of spirit; energetic; healthy
+119|月曜日|げつようび|Noun|Monday
+120|銀行|ぎんこう|Noun|bank
+121|ギター|ギター|Noun, Katakana|guitar
+122|五|ご|Noun, Numeric|five; 5
+123|午後|ごご|Noun|afternoon; p.m.
+124|ご飯|ごはん|Noun|cooked rice, meal
+125|午前|ごぜん|Noun|morning; a.m.
+126|グラム|グラム|Noun, Katakana|gram
+127|牛肉|ぎゅうにく|Noun|beef
+128|牛乳|ぎゅうにゅう|Noun|(cow's) milk
+129|歯|は|Noun|tooth
+130|八|はち|Noun, Numeric|eight: 8
+131|葉書|はがき|Noun|postcard
+132|母|はは|Noun|mother
+133|はい|はい|Noun|yes; that is correct​
+134|入る|はいる|Verb, Godan verb, Intransitive verb|to enter; to go into
+135|灰皿|はいざら|Noun|ashtray
+136|始まる|はじまる|Verb, Godan verb, Intransitive verb|to begin
+137|初めて|はじめて|Adverb|for the first time
+138|箱|はこ|Noun|box; crate
+139|履く|はく|Verb, Godan verb, Transitive verb|to wear, to put on trousers
+140|半|はん|Noun|half; semi-; half-past
+141|花|はな|Noun|flower
+142|鼻|はな|Noun|nose
+143|話|はなし|Noun|talk; speech; chat; conversation​
+144|話す|はなす|Verb, Godan verb, Transitive verb|to speak; to talk; to converse
+145|半分|はんぶん|Noun|half
+146|ハンカチ|ハンカチ|Noun, Katakana|handkerchief​
+147|晴れ|はれ|Noun|clear weather
+148|晴れる|はれる|Verb, Ichidan verb, Intransitive verb|to be sunny
+149|貼る|はる|Verb, Godan verb, Transitive verb|to stick; to paste
+150|春|はる|Noun|spring; springtime
+151|箸|はし|Noun|chopsticks
+152|橋|はし|Noun|bridge
+153|走る|はしる|Verb, Godan verb, Intransitive verb|to run
+154|二十歳|はたち|Noun|20 years old; twenty years old
+155|働く|はたらく|Verb, Godan verb, Intransitive verb|to work
+156|二十日|はつか|Noun|twentieth day of the month / 20 days
+157|早い|はやい|Adjective, い-adjective|fast; early
+158|速い|はやい|Adjective, い-adjective|fast; quick; hasty; brisk
+159|辺|へん|Noun|area
+160|下手|へた|Noun, Adjective, な-adjective|unskillful; poor; awkward​
+161|部屋|へや|Noun|room
+162|左|ひだり|Noun|left; left hand side
+163|東|ひがし|Noun|east
+164|飛行機|ひこうき|Noun|airplane; aircraft
+165|引く|ひく|Verb, Godan verb, Transitive verb|to pull
+166|弾く|ひく|Verb, Godan verb, Transitive verb|to play
+167|低い|ひくい|い-adjective|short,low
+168|暇|ひま|Noun, な-adjective|free time
+169|広い|ひろい|い-adjective|spacious; vast; wide
+170|昼|ひる|Noun|noon; midday; daytime; lunch
+171|昼ご飯|ひるごはん|Noun|lunch
+172|人|ひと|Noun|person; human
+173|一人|ひとり|Noun, Adverb|one person​; alone; single
+174|一つ|ひとつ|Noun, Numeric|one thing; only
+175|ほか|ほか|Noun|other (place, thing, person); the rest
+176|本|ほん|Noun|book; volume; script
+177|本棚|ほんだな|Noun|bookshelf; bookcase
+178|本当|ほんとう|Noun, Adjective, な-adjective|truth; reality; actuality; fact
+179|欲しい|ほしい|Adjective, い-adjective|want
+180|細い|ほそい|Adjective, い-adjective|thin; slender
+181|ホテル|ホテル|Noun, Katakana|hotel
+182|百|ひゃく|Noun, Numeric|100; hundred
+183|一|いち|Noun, Prefix, Suffix, Numeric|one; best; first; foremost; start
+184|一番|いちばん|Noun, Adverb|number one; first; 1st, first place​; best; most​
+185|一日|いちにち|Noun, Adverbial Noun|one day, all day
+186|家|いえ|Noun|house, residence, family
+187|いかが|いかが|Adverb|how; in what way; how about​
+188|池|いけ|Noun|pond
+189|行く|いく|Verb, Godan verb, Intransitive verb|to go; to move
+190|いくら|いくら|Noun, Adverb|how much?; how many?​
+191|いくつ|いくつ|Adverb|how many?,how old?
+192|今|いま|Noun, Adverbial Noun|now; the present time; soon
+193|意味|いみ|Noun|meaning; significance; sense
+194|妹|いもうと|Noun|younger sister
+195|犬|いぬ|Noun|dog
+196|入れる|いれる|Verb, Ichidan verb, Transitive verb|to put in; to let in; to take in; to bring in; to insert; to install
+197|入口|いりぐち|Noun|entrance; entry; gate
+198|色|いろ|Noun|colour; color
+199|色々|いろいろ|Noun, Adjective, な-adjective, Adverb|various
+200|居る|いる|Verb, Ichidan verb, Intransitive verb|to be, to have
