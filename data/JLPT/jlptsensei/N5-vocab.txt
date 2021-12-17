@@ -298,4 +298,103 @@
 298|今年|ことし|Noun|this year
 299|交番|こうばん|Noun|police box
 300|紅茶|こうちゃ|Noun|black tea
-
+301|公園|こうえん|Noun|park
+302|交差点|こうさてん|Noun|intersection
+303|口|くち|Noun|mouth, opening
+304|果物|くだもの|Noun|fruit
+305|下さい|ください|Expression|please
+306|曇り|くもり|Noun|cloudiness; cloudy weather
+307|曇る|くもる|Verb, Godan verb, Intransitive verb|to become cloudy, to become dim
+308|国|くに|Noun|country; state; region
+309|暗い|くらい|Adjective, い-adjective|dark; gloomy; murky
+310|クラス|クラス|Noun, Katakana|class
+311|黒|くろ|Noun|black
+312|黒い|くろい|い-adjective|black
+313|来る|くる|Verb, Intransitive verb|to come
+314|車|くるま|Noun|car; automobile; vehicle
+315|薬|くすり|Noun|medicine
+316|靴|くつ|Noun|shoes
+317|靴下|くつした|Noun|socks
+318|去年|きょねん|Noun|last year
+319|今日|きょう|Noun, Temporal noun|today; this day
+320|兄弟|きょうだい|Noun|siblings; brothers and sisters​; mate
+321|教室|きょうしつ|Noun|classroom
+322|九|きゅう|Noun, Numeric|nine; 9
+323|マッチ|マッチ|Noun, Katakana|match
+324|町|まち|Noun|town; block; neighborhood
+325|窓|まど|Noun|window
+326|前|まえ|Noun, Suffix|previous; before; in front; ago
+327|曲がる|まがる|Verb, Godan verb, Intransitive verb|to turn, to bend
+328|毎朝|まいあさ|Noun|every morning
+329|毎晩|まいばん|Noun|every night
+330|毎日|まいにち|Noun|every day
+331|毎週|まいしゅう|Noun|every week
+332|毎年|まいとし,まいねん|Noun|every year; yearly; annually
+333|毎月|まいつき|Noun|every month; monthly
+334|万|まん|Noun, Numeric|10,000; ten thousand
+335|万年筆|まんねんひつ|Noun|fountain pen
+336|丸い|まるい|Adjective, い-adjective|round,circular
+337|真っ直ぐ|まっすぐ|Noun, Adjective, な-adjective, Adverb|straight ahead,direct
+338|待つ|まつ|Verb, Godan verb, Intransitive verb, Transitive verb|to wait​
+339|不味い|まずい|Adjective, い-adjective|unpleasant
+340|目|め|Noun|eye
+341|メートル|メートル|Noun, Katakana|metre; meter
+342|眼鏡|めがね|Noun|glasses
+343|道|みち|Noun|road; street
+344|緑|みどり|Noun|green
+345|磨く|みがく|Verb, Godan verb, Intransitive verb|to polish; to shine; to brush (e.g. teeth)
+346|右|みぎ|Noun|right; right hand side
+347|短い|みじかい|Adjective, い-adjective|short
+348|三日|みっか|Noun|the third day of the month / 3 days
+349|耳|みみ|Noun|ear; hearing
+350|南|みなみ|Noun|south
+351|皆さん|みなさん|Noun|everyone
+352|みんな|みんな|Noun, Adverb|all; everyone; everybody
+353|見る|	みる|Verb, Ichidan verb, Transitive verb|to see; to look; to watch; to view; to observe
+354|店|みせ|Noun|store; shop; establishment; restaurant
+355|見せる|みせる|Verb, Ichidan verb, Transitive verb|to show; to display
+356|三つ|みつ|Noun, Numeric|three; 3
+357|水|みず|Noun|water; fluid; liquid​
+358|木曜日|もくようび|Noun|Thursday
+359|門|もん|Noun|gate
+360|問題|もんだい|Noun|problem; question (e.g. on a test)
+361|物|もの|Noun|thing
+362|持つ|もつ|Verb, Godan verb|to hold
+363|もっと|もっと||Adverb|more; longer; further
+364|もう一度|もういちど|Expression|once more; again
+365|六日|むいか|Noun|sixth day of the month / 6 days
+366|向こう|むこう|Noun|over there
+367|村|むら|Noun|village
+368|六つ|むっつ|Noun, Numeric|six; 6
+369|難しい|むずかしい|Adjective, い-adjective|difficult
+370|長い|ながい|Adjective, い-adjective|long (distance)​; long (time); lengthy
+371|ナイフ|ナイフ|Noun, Katakana|knife
+372|中|なか|Noun|inside; in; within; center
+373|鳴く|なく|Verb, Godan verb, Intransitive verb|animal noise; to chirp
+374|無くす|なくす|Verb, Godan verb, Transitive verb|to lose (something)
+375|名前|なまえ|Noun|name; full name; given name
+376|七つ|ななつ|Noun, Numeric|seven; 7
+377|何|なに|Noun, Pronoun, Prefix|what
+378|七日|なのか|Noun|seventh day of the month / 7 days
+379|並べる|ならべる|Verb, Ichidan verb, Transitive verb|to line up; to set up
+380|並ぶ|ならぶ|Verb, Godan verb, Intransitive verb|to line up,to stand in a line
+381|習う|ならう|Verb, Godan verb, Transitive verb|to be taught; to learn (from a teacher)
+382|夏|なつ|Noun|summer
+383|夏休み|なつやすみ|Noun|summer vacation; summer holiday
+384|何故|なぜ|Adverb|why; how
+385|猫|ねこ|Noun|cat
+386|ネクタイ|ネクタイ|Noun, Katakana|tie; necktie
+387|寝る|ねる|Verb, Ichidan verb, Intransitive verb|to sleep; to go to bed; to lie down
+388|二|に|Noun, Numeric|two; 2
+389|日曜日|にちようび|Noun|Sunday
+390|賑やか|にぎやか|Adjective, な-adjective|bustling,busy
+391|日記|にっき|Noun|diary; journal
+392|肉|にく|Noun|meat
+393|荷物|にもつ|Noun|luggage; baggage
+394西|にし|Noun|west
+395|庭|にわ|Noun|garden
+396|登る|のぼる|Verb, Godan verb, Intransitive verb|to climb
+397|飲み物|のみもの|Noun|drink; beverage
+398|飲む|のむ|Verb, Godan verb, Transitive verb|to drink
+399|ノート|ノート|Noun, Katakana|notebook
+400|乗る|のる|Verb, Godan verb, Intransitive verb|to get on (train, plane, bus, ship, etc.)

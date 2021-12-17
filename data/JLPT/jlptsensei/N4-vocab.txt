@@ -1,0 +1,564 @@
+1|あ|あ|Expression|Ah; oh
+2|ああ|ああ|Adverb|ah; yes
+3|アフリカ|アフリカ|Noun, Katakana|Africa
+4|上がる|あがる|Verb, Godan verb, Intransitive verb|to rise
+5|挨拶|あいさつ|Noun, Suru verb|to greet
+6|味|あじ|Noun|flavor; taste​; uniqueness; attractiveness; experience
+7|アジア|アジア|Noun, Katakana|Asia
+8|赤ちゃん|あかちゃん|Noun|baby; infant
+9|赤ん坊|あかんぼう|Noun|baby; infant
+10|アクセサリー|アクセサリー|Noun, Katakana|accessory
+11|アメリカ|アメリカ|Noun, Katakana|America
+12|アナウンサー|アナウンサー|Noun, Katakana|announcer
+13|あんな|あんな|Pre-noun adjectival|such
+14|案内|あんない|Noun, Suru verb|to guide
+15|安心|あんしん|Noun, Adjective, な-adjective, Suru verb|peace of mind
+16|安全|あんぜん|Noun, Adjective, な-adjective|safety; security​
+17|アルバイト|アルバイト|Noun, Suru verb, Katakana|part-time job
+18|アルコール|アルコール|Noun, Katakana|alcohol
+19|浅い|あさい|Adjective, い-adjective|shallow
+20|遊び|あそび|Noun|playing
+21
+集まる
+	
+atsumaru
+
+あつまる
+	Verb, Godan verb, Intransitive verb	to gather; to collect; to assemble
+22	
+集める
+	
+atsumeru
+
+あつめる
+	Verb, Ichidan verb, Transitive verb	to collect; to assemble; to gather
+23	
+謝る
+	
+ayamaru
+
+あやまる
+	Verb, Godan verb	to apologize
+24	
+倍
+	
+bai
+
+ばい
+	Noun	double
+25	
+番組
+	
+bangumi
+
+ばんぐみ
+	Noun	program (e.g. TV)
+26	
+場所
+	
+basho
+
+ばしょ
+	Noun	place
+27	
+ベル
+	
+beru
+
+	Noun, Katakana	bell
+28	
+美術館
+	
+bijutsukan
+
+びじゅつかん
+	Noun	art gallery; art museum
+29	
+びっくり
+	
+bikkuri
+
+	Adverb, Suru verb	to be surprised
+30	
+ビル
+	
+biru
+
+	Noun, Katakana	building
+31	
+僕
+	
+boku
+
+ぼく
+	Pronoun	I (used by males)
+32	
+貿易
+	
+boueki
+
+ぼうえき
+	Noun, Suru verb	trade
+33	
+部長
+	
+buchou
+
+ぶちょう
+	Noun	manager; head (chief, director) of a section or department
+34	
+ぶどう
+	
+budou
+
+	Noun	grapes
+35	
+文学
+	
+bungaku
+
+ぶんがく
+	Noun	literature
+36	
+文化
+	
+bunka
+
+ぶんか
+	Noun	culture
+37	
+文法
+	
+bunpou
+
+ぶんぽう
+	Noun	grammar
+38	
+ちゃん
+	
+chan
+
+	Suffix	suffix for familiar female person
+39	
+チェック
+	
+chekku
+
+	Noun, Suru verb, Katakana	to check
+40	
+血
+	
+chi
+
+ち
+	Noun	blood
+41	
+力
+	
+chikara
+
+ちから
+	Noun	energy; force; strength; might; power
+42	
+地理
+	
+chiri
+
+ちり
+	Noun	geography
+43	
+中学校
+	
+chuugakkou
+
+ちゅうがっこう
+	Noun	junior high school; middle school
+44	
+注意
+	
+chuui
+
+ちゅうい
+	Noun, Suru verb	caution
+45	
+注射
+	
+chuusha
+
+ちゅうしゃ
+	Noun, Suru verb	injection
+46	
+駐車場
+	
+chuushajou
+
+ちゅうしゃじょう
+	Noun	parking lot
+47	
+大分
+	
+daibu
+
+だいぶ
+	Adverb	considerably; greatly; a lot​
+48	
+大学生
+	
+daigakusei
+
+だいがくせい
+	Noun	university student; college student
+49	
+大事
+	
+daiji
+
+だいじ
+	Adjective, な-adjective	important; serious; crucial
+50	
+大体
+	
+daitai
+
+だいたい
+	Noun	roughly
+51	
+暖房
+	
+danbou
+
+だんぼう
+	Noun, Suru verb	heating
+52	
+男性
+	
+dansei
+
+だんせい
+	Noun	man; male
+53	
+できるだけ
+	
+dekiru dake
+
+	Adverb, Expression	as much as possible
+54	
+電報
+	
+denpou
+
+でんぽう
+	Noun	telegram
+55	
+電灯
+	
+dentou
+
+でんとう
+	Noun	electric light
+56	
+どんどん
+	
+dondon
+
+	Adverb	rapidly; more and more
+57	
+泥棒
+	
+dorobou
+
+どろぼう
+	Noun	thief
+58	
+動物園
+	
+doubutsuen
+
+どうぶつえん
+	Noun	zoo; zoological gardens
+59	
+道具
+	
+dougu
+
+どうぐ
+	Noun	tool
+60	
+枝
+	
+eda
+
+えだ
+	Noun	branch
+61	
+遠慮
+	
+enryo
+
+えんりょ
+	Noun, Suru verb	reserve; refraining
+62	
+選ぶ
+	
+erabu
+
+えらぶ
+	Verb, Godan verb, Transitive verb	to choose
+63	
+エスカレーター
+	
+esukareetaa
+
+	Noun, Katakana	escalator
+64	
+ファックス
+	
+fakkusu
+
+	Noun, Suru verb, Katakana	fax
+65	
+不便
+	
+fuben
+
+ふべん
+	Noun, Adjective, な-adjective	inconvenience
+66	
+増える
+	
+fueru
+
+ふえる
+	Verb, Ichidan verb, Intransitive verb	to increase
+67	
+深い
+	
+fukai
+
+ふかい
+	Adjective, い-adjective	deep
+68	
+復習
+	
+fukushuu
+
+ふくしゅう
+	Noun, Verb, Suru verb	review (of learned material); revision
+69	
+複雑
+	
+fukuzatsu
+
+ふくざつ
+	Noun, Adjective, な-adjective	complexity; complication
+70	
+踏む
+	
+fumu
+
+ふむ
+	Verb, Godan verb, Transitive verb	to step on
+71	
+舟
+	
+fune
+
+ふね
+	Noun	ship
+72	
+降り出す
+	
+furidasu
+
+ふりだす
+	Verb, Godan verb, Intransitive verb	to start to rain
+73	
+布団
+	
+futon
+
+ふとん
+	Noun	Japanese bedding, futon
+74	
+太る
+	
+futoru
+
+ふとる
+	Verb, Godan verb, Intransitive verb	to become fat
+75	
+普通
+	
+futsuu
+
+ふつう
+	Noun, Adverb	usually
+76	
+ガラス
+	
+garasu
+
+	Noun, Katakana	a glass
+77	
+ガソリン
+	
+gasorin
+
+	Noun, Katakana	gasoline; petrol
+78	
+ガソリンスタンド
+	
+gasorin sutando
+
+	Noun, Katakana	petrol station
+79	
+ガス
+	
+gasu
+
+	Noun, Katakana	petrol
+80	
+原因
+	
+genin
+
+げんいん
+	Noun, Suru verb	cause
+81	
+下宿
+	
+geshuku
+
+げしゅく
+	Noun, Suru verb	lodging
+82	
+技術
+	
+gijutsu
+
+ぎじゅつ
+	Noun	art,technology,skill
+83	
+ごちそう
+	
+gochisou
+
+	Noun, Suru verb	a feast
+84	
+ごみ
+	
+gomi
+
+	Noun	rubbish
+85	
+ご覧になる
+	
+goran ni naru
+
+ごらんになる
+	Verb, Godan verb, Expression	(respectful) to see
+86	
+ご主人
+	
+goshujin
+
+ごしゅじん
+	Noun	your husband; her husband
+87	
+ご存じ
+	
+gozonji
+
+ごぞんじ
+	Noun	knowing
+88	
+具合
+	
+guai
+
+ぐあい
+	Noun	condition; health
+89	
+葉
+	
+ha
+
+は
+	Noun	leaves; leaf
+
+90	
+拝見
+	
+haiken
+
+はいけん
+	Noun, Suru verb	seeing; looking at​
+91	
+歯医者
+	
+haisha
+
+はいしゃ
+	Noun	dentist
+92	
+はっきり
+	
+hakkiri
+
+	Adverb	clearly
+93	
+運ぶ
+	
+hakobu
+
+はこぶ
+	Verb, Godan verb, Transitive verb	to carry
+94	
+花見
+	
+hanami
+
+はなみ
+	Noun, Verb, Suru verb	cherry blossom viewing; flower viewing
+95	
+ハンドバッグ
+	
+handobaggu
+
+	Noun, Katakana	handbag
+96	
+反対
+	
+hantai
+
+はんたい
+	Noun, Adjective, な-adjective, Suru verb	opposition
+97	
+払う
+	
+harau
+
+はらう
+	Verb, Godan verb, Transitive verb	to pay
+98	
+発音
+	
+hatsuon
+
+はつおん
+	Noun, Suru verb	pronunciation
+99	
+林
+	
+hayashi
+
+はやし
+	Noun	woods; forest
+100	
+恥ずかしい
+	
+hazukashii
+
+はずかしい
+	Adjective, い-adjective	embarrassed
+
