@@ -4,4 +4,7 @@
   <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
   <classpathentry kind="output" path="target/classes"/>
   <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/pdfbox/pdfbox/2.0.24/pdfbox-2.0.24.jar" sourcepath="M2_REPO/org/apache/pdfbox/pdfbox/2.0.24/pdfbox-2.0.24-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/pdfbox/fontbox/2.0.24/fontbox-2.0.24.jar" sourcepath="M2_REPO/org/apache/pdfbox/fontbox/2.0.24/fontbox-2.0.24-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" sourcepath="M2_REPO/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar"/>
 </classpath>
