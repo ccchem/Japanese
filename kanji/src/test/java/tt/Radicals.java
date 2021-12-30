@@ -2,6 +2,7 @@ package tt;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.util.HashSet;
 import java.util.Set;
 
 import ek.ja.kanji.KanjiLists;
@@ -10,7 +11,8 @@ public class Radicals
 {
     public static void main(String[] args) throws Exception
     {
-        Set<Character> set = KanjiLists.createCharSet(KanjiLists.GRADE_2); 
+        Set<Character> set = new HashSet<>();
+        KanjiLists.appendCharSet(set, KanjiLists.GRADE_2); 
         
         BufferedReader rd = new BufferedReader(new FileReader("/ws4/Dic/RAD/kradfile-u"));
         

@@ -9,12 +9,12 @@ import com.google.gson.stream.JsonToken;
 import ek.ja.kanji.KanjiLists;
 
 
-public class CangjieTest
+public class ExtractCangjie
 {
 
     public static void main(String[] args) throws Exception
     {
-        LinkedHashMap<Character, String> map = createCharMap(KanjiLists.GRADE_1);
+        LinkedHashMap<Character, String> map = createCharMap(KanjiLists.GRADE_6);
         
         JsonReader rd = new JsonReader(new FileReader("/ws4/Dic/cangjie/cj5-tc-rev.json"));
         rd.beginObject();
