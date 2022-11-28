@@ -1,0 +1,33 @@
+1|売買|baibai|ばいばい|trade; buying and selling
+2|募集|boshuu|ぼしゅう|recruitment; invitation; taking applications; solicitation
+3|遠足|ensoku|えんそく|excursion; outing; trip
+4|発売|hatsubai|はつばい|sale; release (for sale); launch (product)
+5|外れる|hazureru|はずれる|to be disconnected; to be off; to miss the mark
+6|閉会|heikai|へいかい|closure (of a ceremony, event, meeting, etc.)
+7|昼寝|hirune|ひるね|nap, siesta
+8|意地悪|ijiwaru|いじわる|malicious; ill-tempered; unkind
+9|移転|iten|いてん|moving; relocation; change of address
+10|自習|jishuu|じしゅう|self-study; teaching oneself
+11|実習|jisshuu|じっしゅう|practice; training; practical exercise; drill
+12|開会|kaikai|かいかい|opening of a meeting; starting (an event, etc)
+13|回転|kaiten|かいてん|rotation; revolution; turning
+14|加速|kasoku|かそく|acceleration; speeding up
+15|見学|kengaku|けんがく|study by observation; field trip; tour; review; inspection
+16|転がる|korogaru|ころがる|to roll; to fall over; to lie down
+17|転がす|korogasu|ころがす|to roll; to turn over
+18|待ち合わせる|machiawaseru|まちあわせる|to rendezvous; to meet at a prearranged place and time; to arrange to meet
+19|入社|nyuusha|にゅうしゃ|joining a company
+20|押さえる|osaeru|おさえる|to pin down; to hold down; to press down
+21|領収|ryoushuu|りょうしゅう|receipt (of money); receiving
+22|刺さる|sasaru|ささる|to stick into (with a sharp point); to prick; to get stuck (in);
+23|刺す|sasu|さす|to pierce; to stab; to prick; to stick; to thrust; to sting
+24|司会|shikai|しかい|master of ceremonies; leading a meeting; presenter; host
+25|集合|shuugou|しゅうごう|gathering; assembly; meeting
+26|集会|shuukai|しゅうかい|meeting; assembly; gathering; convention; rally
+27|速達|sokutatsu|そくたつ|express; special delivery
+28|足る|taru|たる|to be sufficient; to be enough​; to be worth doing; to be worthy of; to deserve​
+29|特売|tokubai|とくばい|special sale
+30|売り切れる|urikireru|うりきれる|to be sold out
+31|輸血|yuketsu|ゆけつ|blood transfusion
+32|輸送|yusou|ゆそう|transport; transportation
+

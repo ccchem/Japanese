@@ -1,0 +1,213 @@
+1|上がる|agaru|あがる|to rise
+2|挨拶|aisatsu|あいさつ|to greet
+3|案内|annai|あんない|to guide
+4|安心|anshin|あんしん|peace of mind
+5|アルバイト|arubaito|あるばいと|part-time job
+6|集まる|atsumaru|あつまる|to gather; to collect; to assemble
+7|集める|atsumeru|あつめる|to collect; to assemble; to gather
+8|謝る|ayamaru|あやまる|to apologize
+9|貿易|boueki|ぼうえき|trade
+10|チェック|chekku|チェック|to check
+11|注意|chuui|ちゅうい|caution
+12|注射|chuusha|ちゅうしゃ|injection
+13|暖房|danbou|だんぼう|heating
+14|遠慮|enryo|えんりょ|reserve; refraining
+15|選ぶ|erabu|えらぶ|to choose
+16|ファックス|fakkusu|ファックス|fax
+17|増える|fueru|ふえる|to increase
+18|復習|fukushuu|ふくしゅう|review (of learned material); revision
+19|踏む|fumu|ふむ|to step on
+20|降り出す|furidasu|ふりだす|to start to rain
+21|太る|futoru|ふとる|to become fat
+22|原因|genin|げんいん|cause
+23|下宿|geshuku|げしゅく|lodging
+24|ごちそう|gochisou|ごちそう|a feast
+25|ご覧になる|goran ni naru|ごらんになる|to see
+26|拝見|haiken|はいけん|seeing; looking at​
+27|運ぶ|hakobu|はこぶ|	to carry
+28|花見|hanami|はなみ|cherry blossom viewing; flower viewing
+29|反対|hantai|はんたい|opposition
+30|払う|harau|はらう|to pay
+31|発音|hatsuon|はつおん|pronunciation
+32|返事|henji|へんじ|reply; answer; response
+33|冷える|hieru|ひえる|to grow cold
+34|光る|hikaru|ひかる|	to shine
+35|引き出す|hikidasu|ひきだす|to withdraw
+36|引っ越す|hikkosu|ひっこす|to move house
+37|開く|hiraku|ひらく|to open; to undo; to unseal; to unpack
+38|拾う|hirou|ひろう|to pick up
+39|褒める|homeru|ほめる|to praise
+40|翻訳|honyaku|ほんやく|translation
+41|放送|housou|ほうそう|to broadcast
+42|いじめる|ijimeru|いじめる|to tease
+43|意見|iken|いけん|opinion; view; comment
+44|生きる|ikiru|いきる|to live
+45|祈る|inoru|いのる|to pray
+46|急ぐ|isogu|いそぐ|to hurry; to rush; to hasten; to make something happen sooner
+47|頂く|itadaku|いただく|(humble) to receive
+48|致す|itasu|いたす|(humble) to do
+49|準備|junbi|じゅんび|to prepare
+50|変える|kaeru|かえる|to change; to transform
+51|会議|kaigi|かいぎ|meeting; conference; session; assembly
+52|会話|kaiwa|かいわ|conversation
+53|構う|kamau|かまう|to mind
+54|噛む|kamu|かむ|to bite,to chew
+55|考える|kangaeru|かんがえる|to think
+56|関係|kankei|かんけい|relationship
+57|片付ける|katadzukeru|かたづける|to tidy up
+58|勝つ|katsu|かつ|to win
+59|乾く|kawaku|かわく|to get dry
+60|変わる|kawaru|かわる|to change
+61|通う|kayou|かよう|to commute
+62|飾る|kazaru|かざる|to decorate
+63|怪我|kega|けが|to injure
+64|計画|keikaku|けいかく|to plan
+65|経験|keiken|けいけん|to experience
+66|見物|kenbutsu|けんぶつ|sightseeing; visit
+67|喧嘩|kenka|けんか|to quarrel
+68|研究|kenkyuu|けんきゅう|research
+69|聞こえる|kikoeru|きこえる|to be heard; to be audible; to be said
+70|決まる|kimaru|きまる|to be decided
+71|決める|kimeru|きめる|to decide
+72|込む|komu|こむ|to be crowded
+73|故障|koshou|こしょう|to break-down
+74|講義|kougi|こうぎ|lecture
+75|壊れる|kowareru|こわれる|to be broken
+76|壊す|kowasu|こわす|to break
+77|下さる|kudasaru|くださる|(respectful) to give
+78|比べる|kuraberu|くらべる|to compare
+79|暮れる|kureru|くれる|to get dark
+80|教育|kyouiku|きょういく|education
+81|競争|kyousou|きょうそう|competition
+82|急行|kyuukou|きゅうこう|hurrying (to somewhere); rushing; hastening
+83|間違える|machigaeru|まちがえる|to make a mistake (in)
+84|参る|mairu|まいる|(humble) to go; to come
+85|負ける|makeru|まける|to lose
+86|間に合う|maniau|まにあう|to be in time (for)
+87|回る|mawaru|まわる|to go around
+88|召し上がる|meshiagaru|めしあがる|to eat; to drink​
+89|見える|mieru|みえる|to be seen; to be in sight; to look; to seem
+90|見つかる|mitsukaru|みつかる|	to be found; to be discovered
+91|見つける|mitsukeru|みつける|	to discover; to find; to come across; to detect; to spot
+92|戻る|modoru|もどる|	to turn back
+93|申し上げる|moushiageru|もうしあげる|to say; to offer
+94|申す|mousu|もうす|to be called; to say
+95|迎える|mukaeru|むかえる|to go out to meet
+96|向かう|mukau|むかう|to head towards
+97|無理|muri|むり|impossible
+98|投げる|nageru|なげる|to throw or cast away
+99|泣く|naku|なく|to cry
+100|無くなる|naku naru|なくなる|to disappear; to get lost
+101|亡くなる|nakunaru|なくなる|	to die
+102|直る|naoru|なおる|	to be fixed,to be repaired
+103|治る|naoru|なおる|	to be cured; to heal
+104|慣れる|nareru|なれる|to get used to
+105|鳴る|naru|なる|to sound
+106|寝坊|nebou|ねぼう|sleeping in late; oversleeping
+107|眠る|nemuru|ねむる|to sleep
+108|逃げる|nigeru|にげる|to escape
+109|似る|niru|にる|to be similar
+110|残る|nokoru|のこる|to remain
+111|乗り換える|norikaeru|のりかえる|to change between buses or trains
+112|濡れる|nureru|ぬれる|to get wet
+113|塗る|nuru|ぬる|to paint; to plaster
+114|盗む|nusumu|ぬすむ|to steal
+115|入学|nyuugaku|にゅうがく|entry to school or university; enrollment
+116|入院|nyuuin|にゅういん|hospitalization
+117|落ちる|ochiru|おちる|to fall or drop
+118|驚く|odoroku|おどろく|to be surprised
+119|踊る|odoru|おどる|to dance
+120|お出でになる|oide ni naru|おいでになる|(respectful) to be
+121|お祝い|oiwai|おいわい|congratulation
+122|行う|okonau|おこなう|to perform; to do; to carry out
+123|怒る|okoru|おこる|	to be angry
+124|起こす|okosu|おこす|to wake
+125|遅れる|okureru|おくれる|to be late
+126|送る|okuru|おくる|	to send
+127|思い出す|omoidasu|おもいだす|to remember
+128|折れる|oreru|おれる|to break; to be broken
+129|下りる|oriru|おりる|to get off
+130|折る|oru|おる|to break or to fold
+131|仰る|ossharu|おっしゃる|(respectful) to say
+132|落とす|otosu|おとす|to drop
+133|冷房|reibou|れいぼう|air conditioning
+134|連絡|renraku|れんらく|to contact; to get in touch​
+135|利用|riyou|りよう|use; utilization; application
+136|留守|rusu|るす|absence
+137|下がる|sagaru|さがる|to get down
+138|探す|sagasu|さがす|to look for
+139|下げる|sageru|さげる|to lower
+140|差し上げる|sashiageru|さしあげる|to give
+141|騒ぐ|sawagu|さわぐ|to make noise,to be excited
+142|触る|sawaru|さわる|to touch
+143|生活|seikatsu|せいかつ|to live
+144|生産|seisan|せいさん|production
+145|戦争|sensou|せんそう|war
+146|説明|setsumei|せつめい|explanation
+147|試合|shiai|しあい|match,game
+148|叱る|shikaru|しかる|to scold
+149|試験|shiken|しけん|examination
+150|失敗|shippai|しっぱい|failure
+151|調べる|shiraberu|しらべる|to investigate
+152|知らせる|shiraseru|しらせる|to notify
+153|生じる|shoujiru|しょうじる|to produce
+154|紹介|shoukai|しょうかい|introduction
+155|育てる|sodateru|そだてる|to rear,to bring up
+156|卒業|sotsugyou|そつぎょう|graduation
+157|相談|soudan|そうだん|to discuss
+158|滑る|suberu|すべる|to slide; to slip
+159|水泳|suiei|すいえい|swimming
+160|空く|suku|すく|to get empty​; to be hungry
+161|済む|sumu|すむ|to finish
+162|進む|susumu|すすむ|to make progress
+163|捨てる|suteru|すてる|to throw away
+164|退院|tai'in|たいいん|leaving hospital; discharge from hospital
+165|誕生|tanjou|たんじょう|birth
+166|倒れる|taoreru|たおれる|to fall (over, down)
+167|足りる|tariru|たりる|to be sufficient; to be enough
+168|足す|tasu|たす|to add (numbers / something)
+169|建てる|tateru|たてる|to build
+170|訪ねる|tazuneru|たずねる|to visit
+171|尋ねる|tazuneru|たずねる|to ask
+172|手伝う|tetsudau|てつだう|to help; to assist; to aid​
+173|届ける|todokeru|とどける|to send​
+174|泊まる|tomaru|とまる|to stay at
+175|止める|tomeru|とめる|to stop something
+176|通る|tooru|とおる|to go through
+177|取り替える|torikaeru|とりかえる|to exchange; to swap; to replace
+178|続ける|tsudzukeru|つづける|to continue; to keep up; to keep on
+179|続く|tsudzuku|つづく|to continue
+180|捕まえる|tsukamaeru|つかまえる|to catch
+181|漬ける|tsukeru|つける|to soak; to pickle
+182|付く|tsuku|つく|to be attached
+183|連れる|tsureru|つれる|to take (someone) with one
+184|釣る|tsuru|つる|to fish
+185|伝える|tsutaeru|つたえる|to report; to tell
+186|包む|tsutsumu|つつむ|to wrap
+187|植える|ueru|うえる|to plant; to grow
+188|動く|ugoku|うごく|to move
+189|伺う|ukagau|うかがう|to visit
+190|受ける|ukeru|うける|to take a lesson or test
+191|打つ|utsu|うつ|to hit
+192|移る|utsuru|うつる|to move house or transfer
+193|写す|utsusu|うつす|to copy or photograph
+194|別れる|wakareru|わかれる|to separate
+195|沸かす|wakasu|わかす|to boil; to heat
+196|沸く|waku|わく|to boil
+197|笑う|warau|わらう|to laugh; to smile
+198|割れる|wareru|われる|to break
+199|焼ける|yakeru|やける|to burn; to be roasted
+200|焼く|yaku|やく|to bake; to grill
+201|役に立つ|yakunitatsu|やくにたつ|to be helpful
+202|約束|yakusoku|やくそく|promise
+203|止む|yamu|やむ|to stop
+204|痩せる|yaseru|やせる|to become thin
+205|汚れる|yogoreru|よごれる|to get dirty
+206|喜ぶ|yorokobu|よろこぶ|to be delighted
+207|寄る|yoru|よる|to visit; to drop by
+208|予習|yoshuu|よしゅう|preparation for a lesson
+209|予定|yotei|よてい|plan
+210|用意|youi|ようい|preparation; arrangements; provision; getting ready
+211|予約|yoyaku|よやく|reservation
+212|揺れる|yureru|ゆれる|to shake
+
